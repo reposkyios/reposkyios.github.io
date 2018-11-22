@@ -1,0 +1,14 @@
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Maintainer: thuan_vn <thuanvodka@gmail.com>
+Name: Evanesco
+Package: com.thu4nrepo.evanesco
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Section: Tweaks
+Version: 1.2
+Architecture: iphoneos-arm
+Description: clear icon springboard sau thoi gian khong hoat dong
+Homepage: https://reposkyios.github.io
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11,
+Filename: ./debs/com.thu4nrepo.evanesco.deb
+Size: 137984
+MD5sum: cbcd98b95256605c15d759d03d253465
